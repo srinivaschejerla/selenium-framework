@@ -8,4 +8,8 @@ https://www.selenium.dev/maven/
 
 https://www.selenium.dev/images/maven-diagram.png
 
+Junit
+
+https://junit.org/junit5/
+
 
