@@ -12,4 +12,7 @@ Junit
 
 https://junit.org/junit5/
 
+Selenium resources
+https://github.com/SeleniumHQ/selenium/wiki
+
 
